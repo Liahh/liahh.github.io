@@ -1,0 +1,50 @@
+body{
+	background-color: #A30015;
+	color: #fff; 
+	font-family: Georgia; 
+}
+
+.longdress{
+	width: 80% ;
+	margin: 0 auto; 
+	background-color: #34D7E2;
+}
+
+header{
+	background-color: #A30015;
+	padding-top: 10px;
+
+}
+h1{
+	text-align:center;
+	margin-right: 10px;
+}
+
+nav{
+	background-color: #A30015;
+	padding: 10px;
+}
+
+nav ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 10px;
+	font-size: 20px;
+}
+
+li a:link, li a:hover, li a:active ,li a:visited {
+	text-decoration: none;
+	color: #000;
+}
+li a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+p {
+	background-color: #34D7E2;
+}
