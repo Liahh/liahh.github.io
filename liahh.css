@@ -2,9 +2,13 @@ body{
 	background-color: #A30015;
 	color: #fff; 
 	font-family: Georgia; 
-    background-image: url("bb.png");
+    background-image: url("images/bb.png");
     background-origin: none; 
 
+}
+
+#homeImages{
+    text-align: center;
 }
 
 .longdress{
