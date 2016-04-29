@@ -4,6 +4,7 @@ body{
 	font-family: Georgia; 
     background-image: url("images/bb.png");
     background-origin: none; 
+  
 
 }
 
@@ -15,6 +16,8 @@ body{
 	width: 80% ;
 	margin: 0 auto; 
 	background-color: #34D7E2;
+	
+}	
 
 footer {
     clear:both;
